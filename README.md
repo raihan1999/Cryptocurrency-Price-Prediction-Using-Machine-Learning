@@ -87,8 +87,8 @@ The dataset contains **14 key features** across 30 days of cryptocurrency data:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/crypto-price-prediction.git
-cd crypto-price-prediction
+git clone https://github.com/raihan1999/Cryptocurrency-Price-Prediction-Using-Machine-Learning.git
+cd Cryptocurrency-Price-Prediction-Using-Machine-Learning
 ```
 
 2. **Install dependencies**
